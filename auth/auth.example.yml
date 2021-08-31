@@ -2,4 +2,5 @@
   # CLIENT DETAILS
   binance_api: "BINANCE_API_KEY"
   binance_secret: "BINANCE_SECRET"
+  #CHOOSE YOUR TOP-LEVEL-DOMAIN. FOR BINANCE.US binance_tld : "us" FOR BINANCE.COM binance_tld: "com"
   binance_tld: "BINANCE_TLD"
